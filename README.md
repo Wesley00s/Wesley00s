@@ -32,7 +32,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wesley00s/wesley00s/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wesley00s/wesley00s/main/snake.svg" alt="Snake animation" />
 <br><br clear="both">
 
 ###
