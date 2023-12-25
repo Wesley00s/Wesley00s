@@ -9,9 +9,6 @@
 
 ###
 
-<div align="center">
-  <img height="500" src="https://im3.ezgif.com/tmp/ezgif-3-9e412cbd23.gif"  />
-</div>
 <br><br clear="both">
 
 ###
