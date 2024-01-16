@@ -13,7 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=6000&pause=1000&color=81ADFFCF&center=true&vCenter=true&random=false&width=1080&lines=%F0%9F%8E%93+I+am+a+student+of+Systems+Analysis+and+Development.;%F0%9F%92%99+Passionate+about+exploring+the+world+of+technology.;%F0%9F%A7%A0+Currently%2C+I+am+deepening+my+knowledge+in.+++.+++.;%E2%98%95+Java%2C+%F0%9F%93%B1+Kotlin%2C+and+%F0%9F%92%BB+Data+Science.;%F0%9F%A4%B9%F0%9F%8F%BD+While+continuing+to+enhance+my+skills.;%F0%9F%AB%82+Thanks+for+learning+about+my+tech+journey.;%F0%9F%92%A1+Open+to+ideas+and+opportunities.;%F0%9F%86%99+Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
-<h1 align="left">Skils</h1>
+<h1 align="left">Skills</h1>
 <br clear="both">
 
 #### Front-end
