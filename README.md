@@ -60,18 +60,13 @@
 </div>
 <br><br clear="both">
 
-<img src="https://raw.githubusercontent.com/wesley00s/wesley00s/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wesley00s/wesley00s/main/dist/snake.svg" alt="Snake animation" />
 <br><br clear="both">
 
 <div align="center">
   <img height="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 </div>
 <br><br clear="both">
-
-<h1 align="left">Projects</h1>
-<br clear="both">
-  <p align="center">Coming soon...</p>
-<br>
 
 <h2 align="left">Medias</h2>
 <br clear="both">
