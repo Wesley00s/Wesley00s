@@ -19,6 +19,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add output/3d-contrib.png  # Ajuste conforme o caminho real
+          git add dist/3d-contrib.png  # Ajuste conforme o caminho real
           git commit -m "Updated 3D contribution graph"
           git push
