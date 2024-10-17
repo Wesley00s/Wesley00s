@@ -1,8 +1,10 @@
 name: GitHub-Profile-3D-Contrib
+
 on:
   schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 * * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,13 +14,11 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Debdeep1
-      - name: List generated files
-        run: ls -R
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add dist/3d-contrib.png  # Ajuste conforme o caminho real
+          git add profile-3d-contrib/*.svg
           git commit -m "Updated 3D contribution graph"
           git push
