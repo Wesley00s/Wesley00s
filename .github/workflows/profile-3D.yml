@@ -13,10 +13,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Debdeep1
+      - name: List generated files
+        run: ls -R
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add output/3d-contrib.png
+          git add output/3d-contrib.png  # Ajuste conforme o caminho real
           git commit -m "Updated 3D contribution graph"
           git push
