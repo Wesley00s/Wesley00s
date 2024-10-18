@@ -1,6 +1,12 @@
+<div align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif"  />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=8000&pause=30000&color=81ADFFCF&center=true&vCenter=true&random=false&width=1080&lines=%F0%9F%A4%93+Hi+there!+I+am+Wesley)](https://git.io/typing-svg)
 
-![3D Contribution Graph](output/3d-contrib.png)
+<br><br clear="both">
+
+![3D Contribution Graph](profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
