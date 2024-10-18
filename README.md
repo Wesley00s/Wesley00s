@@ -56,7 +56,7 @@
 ### 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wesley00s&show_icons=true&theme=omni&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley00s&layout=compact&langs_count=5&theme=omni&hide_border=true" height="150" alt="Top Languages" />
+
   <img src="https://streak-stats.demolab.com?user=wesley00s&theme=omni&hide_border=true" height="150" alt="Streak Stats" />
 </div>
 
