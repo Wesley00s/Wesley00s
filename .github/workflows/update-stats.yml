@@ -13,6 +13,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create directory
+        run: mkdir -p generated
+
       - name: Generate Stats Images
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -21,18 +24,14 @@ jobs:
           card: stats
           options: 'username=wesley00s&theme=omni&show_icons=true&hide_border=true&count_private=true'
 
-      - name: Generate Top Langs
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          path: generated/
-          card: top-langs
-          options: 'username=wesley00s&theme=omni&hide_border=true&layout=compact'
+      - name: Debug - List files
+        run: ls -R
 
       - name: Commit and Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add generated/
+          # Adiciona tudo dentro da pasta generated (o . é mais seguro aqui)
+          git add generated
           git commit -m "Update GitHub Stats" || echo "No changes to commit"
           git push
