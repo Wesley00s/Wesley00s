@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=8000&pause=30000&color=81ADFFCF&center=true&vCenter=true&random=false&width=1080&lines=%F0%9F%A4%93+Hi+there!+I+am+Wesley)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=8000&pause=1000&color=81ADFFCF&center=true&vCenter=true&random=false&width=1080&lines=Hi+there!+I+am+Wesley;Software+Developer;Java+%2F+Kotlin+Backend+Specialist)](https://git.io/typing-svg)
 
 <br><br clear="both">
 
@@ -11,43 +11,41 @@
 ---
 
 ### 🧑‍💻 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=6000&pause=1000&color=81ADFFCF&center=true&vCenter=true&random=false&width=1080&lines=%F0%9F%8E%93+I+am+a+student+of+Systems+Analysis+and+Development.;%F0%9F%92%99+Passionate+about+exploring+the+world+of+technology)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=6000&pause=1000&color=81ADFFCF&center=true&vCenter=true&random=false&width=1080&lines=Systems+Analysis+and+Development+Graduate;Focus+on+Microservices,+Messaging+and+Cloud;Building+scalable+solutions+with+Spring+Boot+and+Android)](https://git.io/typing-svg)
 
 ---
 
-### ⚙️ Skills
+### 🚀 Tech Stack
 
 <div align="center">
 
-#### Front-end
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-#### Languages
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+#### Backend & Architecture
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-#### Data Science
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img height="50" src="https://cdn-icons-png.flaticon.com/128/3273/3273713.png" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img height="50" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+
+#### Mobile & Frontend
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img height="50" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 #### Databases
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-
-#### Technologies & Frameworks
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+#### DevOps, Tools & OS
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 
 </div>
 
@@ -55,8 +53,7 @@
 
 ### 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesley00s&show_icons=true&theme=omni&hide_border=true" height="150" alt="GitHub Stats" />
-
+  <img src="./generated/stats.svg" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=wesley00s&theme=omni&hide_border=true" height="150" alt="Streak Stats" />
 </div>
 
@@ -66,7 +63,7 @@
 ![Snake animation](https://raw.githubusercontent.com/wesley00s/wesley00s/main/dist/snake.svg)
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
 
 ---
