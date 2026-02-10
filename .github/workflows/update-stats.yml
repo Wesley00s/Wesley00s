@@ -28,3 +28,11 @@ jobs:
           path: generated/
           card: top-langs
           options: 'username=wesley00s&theme=omni&hide_border=true&layout=compact'
+
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add generated/
+          git commit -m "Update GitHub Stats" || echo "No changes to commit"
+          git push
