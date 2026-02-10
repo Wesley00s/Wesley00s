@@ -20,18 +20,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          path: generated/
+          path: generated/stats.svg
           card: stats
           options: 'username=wesley00s&theme=omni&show_icons=true&hide_border=true&count_private=true'
-
-      - name: Debug - List files
-        run: ls -R
 
       - name: Commit and Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          # Adiciona tudo dentro da pasta generated (o . é mais seguro aqui)
-          git add generated
+          # Adiciona a pasta gerada ao git
+          git add generated/
+          # Faz o commit apenas se houver mudanças
           git commit -m "Update GitHub Stats" || echo "No changes to commit"
           git push
