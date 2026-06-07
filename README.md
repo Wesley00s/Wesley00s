@@ -57,6 +57,8 @@
   <img src="https://streak-stats.demolab.com?user=wesley00s&theme=omni&hide_border=true" height="150" alt="Streak Stats" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=Wesley00s)
+
 ---
 
 ### 🐍 Contributions
